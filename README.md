@@ -2,7 +2,7 @@
 
 ## Authors
 
-Meghan Jones<sup>a</sup>, Dorsey Wanless<sup>b</sup>, Adam Soule<sup>c</sup>, Mark Kurz<sup>c</sup>, Eric Miteelstaedt<sup>d</sup>, Dan Fornari<sup>c</sup>, Josh Curtice<sup>c</sup>, Frieder Klein<sup>c</sup>, Harry Brodsky<sup>e</sup>, Sandrine Peron<sup>f</sup>, Darin Schwartz<sup>b</sup>
+Meghan Jones<sup>a</sup>, Dorsey Wanless<sup>b</sup>, Adam Soule<sup>c</sup>, Mark Kurz<sup>c</sup>, Eric Mittelstaedt<sup>d</sup>, Dan Fornari<sup>c</sup>, Josh Curtice<sup>c</sup>, Frieder Klein<sup>c</sup>, Veronique Le Roux<sup>c</sup>, Harry Brodsky<sup>e</sup>, Sandrine Peron<sup>f</sup>, Darin Schwartz<sup>b</sup>
 
 <sup>a</sup>Massachusetts Institute of Technology/Woods Hole Oceanographic Institution Joint Program in Oceanography, 360 Woods Hole Road, 02543, Woods Hole, MA, USA
 
@@ -19,11 +19,11 @@ Jussieu, 75005, Paris, France
 
 ## Key Points
 
-* Bubble accumulation influences CO2 concentrations in Mid-Atlantic Ridge popping rocks.
+* Bubble accumulation influences CO<sub>2</sub> concentrations in Mid-Atlantic Ridge popping rocks.
 
 * Mantle carbon concentrations are lower than previously suggested based on popping rock 2πD43.
 
-* Pre-accumulation CO2/Ba ratios (16–22) provide evidence for heterogeneity in the depleted mantle ratio.
+* Pre-accumulation CO<sub>2</sub>/Ba ratios (16–22) provide evidence for heterogeneity in the depleted mantle ratio.
 
 ## Abstract
 
@@ -34,15 +34,15 @@ incompatible trace element (e.g., Nb, Ba) concentrations in rare, undegassed mid
 and melt inclusions provide primary constraints on upper mantle carbon content. Here we investigate
 whether the most volatile rich mid-ocean ridge basalts, termed ‘popping rocks’, represent undegassed
 magmas from the upper mantle and provide insight into upper mantle carbon inventory. We show
-that fourteen new popping rocks, collected in situ from the Mid-Atlantic Ridge rift valley near 14◦N,
-contain highly variable CO2/Nb and CO2/Ba ratios despite similar mantle sources and extents of
-melting. We revise the original model for popping rock formation using seafloor observations, highresolution
+that fourteen new popping rocks, collected in situ from the Mid-Atlantic Ridge rift valley near 14°N,
+contain highly variable CO<sub>2</sub>/Nb and CO<sub>2</sub>/Ba ratios despite similar mantle sources and extents of
+melting. We revise the original model for popping rock formation using seafloor observations, high resolution
 bathymetry, vesicle size distributions, major and trace element geochemistry, and noble gas
 geochemistry. Highly variable volatile concentrations despite relatively homogeneous trace element ratios
-and low 4He/40Ar∗ suggest that bubble accumulation affected these popping rocks. These results provide
-evidence for heterogeneity in the CO2/Ba ratio of the depleted mantle and indicate that mantle carbon
+and low <sup>4</sup>He/<sup>40</sup>Ar<sup>*</sup> suggest that bubble accumulation affected these popping rocks. These results provide
+evidence for heterogeneity in the CO<sub>2</sub>/Ba ratio of the depleted mantle and indicate that mantle carbon
 concentrations are lower and less heterogeneous than previously estimated, which influences models for
-mantle melting and CO2 flux at mid-ocean ridges.
+mantle melting and CO<sub>2</sub> flux at mid-ocean ridges.
 
 ## Status
 
