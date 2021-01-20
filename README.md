@@ -46,7 +46,7 @@ mantle melting and CO<sub>2</sub> flux at mid-ocean ridges.
 
 ## Status
 
-This paper was published in Earth and Planetary Science letters, doi: 10.1016/j.epsl.2019.01.019. Comments, questions, and suggestions are appreciated through github issues or via e-mail to Meghan Jones (meghanj@alum.mit.edu).
+This paper was published in Earth and Planetary Science letters, doi: 10.1016/j.epsl.2019.01.019. Comments, questions, and suggestions are appreciated through github issues or via e-mail to Meghan Jones (meghanj [at] alum.mit.edu).
 
 ## Acknowledgments and Support
 
